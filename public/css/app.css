@@ -1,0 +1,59 @@
+a {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	color: #222;
+}
+
+.text-center {
+	text-align:center;
+}
+.inline {
+	display: inline;
+}
+.mt-1 {
+	margin-top: 1em;
+}
+.faded {
+	color: #444;
+}
+
+header {
+	background-color: #E0E0E0;
+}
+footer {
+	margin-top: 3em;
+}
+nav {
+	margin-top: 1em;
+}
+nav ul {
+	display: flex;
+	flex-direction: row;
+	list-style-type: none;
+}
+
+
+nav ul li a {
+	color: black;
+	padding: 1em;
+}
+.search {
+	margin: 1em;
+}
+
+.task-card {
+	background-color: #F0F0F0;
+	border-radius: 0.6em;
+	margin: 0.3em auto;
+	padding: 0.5em 0.2em 0.2em 0.2em;
+}
+
+.task-card-actions {
+	margin-top: 1em;
+}
+
+.drag-drop {
+	border: 1px dashed #C0C0C0;
+}
