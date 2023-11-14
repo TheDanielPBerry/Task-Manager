@@ -1,4 +1,4 @@
-I've finished the project with the task manager.
+Simple application for managing tasks on different projects.
 Users hould have access to edit status, priority, title and notes of each task.
 I kept the styling as simple as possible using the bootstrap library.
 
@@ -20,4 +20,4 @@ To start the server you can run this artisan command from the root project folde
 	php artisan serve
 And the then should be able to access the site from http://localhost:8000
 
-Please let me know if you have any issues getting setup.
+
